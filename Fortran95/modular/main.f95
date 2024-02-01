@@ -150,7 +150,7 @@ module eigen
             
             real, intent(in) :: startpoint, endpoint
             integer, intent(in) :: num
-            character(len = 20), intent(out) :: outpath
+            character(len = 20), intent(in) :: outpath
             real, intent(out) :: step
             
             real, dimension(:), allocatable :: answer
