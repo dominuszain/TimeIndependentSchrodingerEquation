@@ -1,0 +1,1 @@
+this is what i would professionally use in research. Intel compiler doesnt give useless segmentation faults like the gnu one, so arrays and matrices are recommended to be passed directly to subroutines without writing them to hard drive. This is the peak of my coding skills, and is pretty damn satisfactory. 
