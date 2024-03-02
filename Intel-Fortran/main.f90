@@ -1,4 +1,4 @@
-module test
+module useful_subs
 
     implicit none
     
@@ -99,9 +99,9 @@ module test
 
 end module
 
-program linspace_test
+program tise_on_steroids
     
-    use test
+    use useful_subs
     
     implicit none
     
@@ -156,4 +156,4 @@ program linspace_test
     
     deallocate(array, potentiarray, matrix)
     
-end program linspace_test
+end program tise_on_steroids
