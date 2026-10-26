@@ -33,3 +33,6 @@ Thumbs.db
 *.mod
 *.exe
 a.out
+
+# Generated output
+Intel-Fortran/eigenout.txt
