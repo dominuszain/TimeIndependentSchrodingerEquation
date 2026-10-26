@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Time-independent Schrödinger equation: eigenstates from finite differences"
+abstract: "Numerical eigenstates of the 1D time-independent Schrödinger equation for several potentials, using Scilab and Fortran with LAPACK."
+authors:
+  - family-names: Ul Abideen
+    given-names: Zain
+    email: zain2@uni-bremen.de
+    affiliation: University of Bremen
+version: "1.0.0"
+date-released: "2026-10-26"
+license: MIT
+url: "https://github.com/dominuszain/TimeIndependentSchrodingerEquation"
+repository-code: "https://github.com/dominuszain/TimeIndependentSchrodingerEquation"
+keywords:
+  - quantum mechanics
+  - schrodinger equation
+  - eigenvalue problem
+  - finite difference
+  - fortran
+  - scilab
